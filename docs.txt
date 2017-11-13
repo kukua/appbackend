@@ -1,0 +1,25 @@
+Login
+-------------------
+
+Endpoint: http://localhost:1239/api/user/login
+
+{
+	"email": "jean@pereira.is",
+	"password": "kukua123"
+}
+
+Register
+-------------------
+
+Endpoint: http://localhost:1239/api/user/create
+
+{
+	"first_name": "Johnny",
+	"last_name": "Bravo",
+	"email": "bravo@johnny.com",
+	"phone_number": "01234",
+	"password": "bravo1337",
+	"character_id": "1",
+	"location": "Germany",
+	"purpose_id": "0"
+}
